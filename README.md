@@ -11,6 +11,7 @@ A simple and responsive newsletter subscription card built using **HTML** and **
 
 ## Tech Stack
 - HTML
+- Vite
 - Tailwind CSS (via PostCSS)
 
 ## How to Run Locally
