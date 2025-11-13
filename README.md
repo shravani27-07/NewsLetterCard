@@ -15,13 +15,12 @@ A simple and responsive newsletter subscription card built using **HTML** and **
 - Tailwind CSS (via PostCSS)
 
 ## How to Run Locally
-1. Clone this repository:
-   git clone https://github.com/shravani27-07/NewsLetterCard.git
+1. Install Tailwind CSS dependencies (if not already installed):
+ - npm insatll
 
-2. Install Tailwind CSS dependencies (if not already installed):
- - npm install
+2. Run the project on a server:
+ - npm run dev
 
-3. Run the project on a server:
- - npm run start
-
-
+3. Clone this repository:
+```bash
+git clone https://github.com/shravani27-07/NewsLetterCard.git
