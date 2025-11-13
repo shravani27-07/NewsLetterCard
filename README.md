@@ -19,3 +19,5 @@ A simple and responsive newsletter subscription card built using **HTML** and **
 2. Install Tailwind CSS dependencies (if not already installed):
    ```bash
    npm install
+3. To run your project on server
+ - npm run start
